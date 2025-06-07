@@ -2,8 +2,8 @@
 # Adult Census Income Prediction Project
 # HarvardX: PH125.9x Data Science: Capstone - Choose Your Own Project
 # 
-# Author: [Your Name]
-# Date: [Current Date]
+# Author: Mingyang Sun
+# Date: 06.07.2025
 # 
 # Goal: Predict whether income exceeds $50K/year using census data
 # Dataset: UCI Adult Census Income Dataset from Kaggle
